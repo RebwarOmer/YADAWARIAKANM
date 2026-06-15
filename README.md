@@ -1,6 +1,6 @@
 # YADAWARI
 
-Live at [yadawari.vercel.app]
+Live at (https://yadawari.vercel.app)
 
 YADAWARI is a personal diary web application built for people who want a clean, focused space to write. Each entry is tied to its date, giving your writing a natural timeline that you can revisit and scroll through at any pace.
 
